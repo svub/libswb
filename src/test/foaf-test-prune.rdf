@@ -1,0 +1,89 @@
+<rdf:RDF
+    xmlns:j.0="http://webns.net/mvcb/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" >
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok42fe5511-c177-435a-8cf7-18b6a881d8b7">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:depiction rdf:resource="http://dit.unitn.it/~bortoli/images/stefano_bortoli.jpg"/>
+    <foaf:homepage rdf:resource="http://dit.unitn.it/~bortoli/index.html"/>
+    <foaf:schoolHomepage rdf:resource="http://www.science.unitn.it/"/>
+    <foaf:workplaceHomepage rdf:resource="http://www.unitn.it/"/>
+    <foaf:firstName>Stefano</foaf:firstName>
+    <foaf:surname>Bortoli</foaf:surname>
+    <foaf:nick>boe</foaf:nick>
+    <foaf:mbox_sha1sum>c6652e79a6b2b0ba50514ed16053d0ff6e9102a2</foaf:mbox_sha1sum>
+    <foaf:name>Stefano Bortoli</foaf:name>
+    <foaf:knows rdf:resource="http://www.okkam.org/entity/ok200706301185791252056"/>
+    <foaf:knows rdf:resource="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1"/>
+    <foaf:knows rdf:resource="http://www.okkam.org/entity/ok200707031186147288193"/>
+    <foaf:knows rdf:resource="http://www.okkam.org/entity/ok200706171184687630112"/>
+   </rdf:Description>
+     <rdf:Description rdf:about="http://www.newid1.com">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Gatto Panceri</foaf:name>
+    <foaf:knows rdf:resource="http://www.okkam.org/entity/ok200706301185791252056"/>
+    <foaf:knows rdf:resource="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1"/>
+    <foaf:knows rdf:resource="http://www.newid3.com"/>
+   </rdf:Description>
+  <rdf:Description rdf:about="http://disi.unitn.it/~bortoli">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+    <foaf:primaryTopic rdf:resource="http://www.okkam.org/entity/ok42fe5511-c177-435a-8cf7-18b6a881d8b7"/>
+    <j.0:generatorAgent rdf:resource="http://www.okkam.org/foaf-O-matic/"/>
+    <j.0:errorReportsTo rdf:resource="mailto:bortoli@dit.unitn.it"/>
+    <dc:title>FOAF Description for Stefano Bortoli</dc:title>
+    <dc:description>Friend of a Friend (FOAF) description, containing personal metadata for Stefano Bortoli</dc:description>
+    <dc:date>2008-02-14</dc:date>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706301185791252056">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>Paolo</foaf:firstName>
+    <foaf:family_name>Bouquet</foaf:family_name>
+    <foaf:img>http://www.dit.unitn.it/~bouquet/my-photo-small.gif</foaf:img>
+    <foaf:knows rdf:resource="http://www.newid1.com"/>
+    <foaf:knows rdf:resource="http://www.newid2.com"/>
+    <foaf:knows rdf:resource="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706171184687630112">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>Zhisheng</foaf:firstName>
+    <foaf:family_name>Huang</foaf:family_name>
+    <foaf:img>http://wasp.cs.vu.nl/~huang/images/huang02.jpg</foaf:img>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.newid2.com">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>pompadur</foaf:firstName>
+    <foaf:family_name>pompamol</foaf:family_name>
+    <foaf:img>http://wasp.cs.vu.nl/~huang/images/huang02.jpg</foaf:img>
+    <foaf:knows rdf:resource="http://www.newid3.com"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.newid3.com">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>Mario</foaf:firstName>
+    <foaf:family_name>Rossi</foaf:family_name>
+     <foaf:knows rdf:resource="http://www.newid4.com"/>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.newid4.com">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>Gigi</foaf:firstName>
+    <foaf:family_name>La trottola</foaf:family_name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200707031186147288193">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:firstName>Holger</foaf:firstName>
+    <foaf:family_name>Wache</foaf:family_name>
+    <foaf:img>http://www.cs.vu.nl/~holger/images/Holger-Wache-klein.gif</foaf:img>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:depiction rdf:resource="http://www.know-who.net/misc/me_170x223.jpg"/>
+    <foaf:surname>Stoermer</foaf:surname>
+    <foaf:name>Heiko Stoermer</foaf:name>
+  </rdf:Description>
+</rdf:RDF>

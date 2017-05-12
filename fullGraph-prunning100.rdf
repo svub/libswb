@@ -1,0 +1,434 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:j.1="http://webns.net/mvcb/"
+    xmlns:rss="http://purl.org/rss/1.0/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" > 
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706161184588383497">
+    <j.0:name>Daniel Giacomuzzi</j.0:name>
+    <j.0:surname>Giacomuzzi</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/okdfb86356-b96e-4d87-9595-8af5c5995925">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:name>Alexander Loeser</j.0:name>
+    <j.0:surname>Loeser</j.0:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/okb72d708e-1c11-40eb-ad97-e250785756ab">
+    <j.0:name>Silvio Motta</j.0:name>
+    <j.0:surname>Motta</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok2caa1991-d25c-42c5-bd4b-b2199b2ad52d">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Richard Cyganiak</j.0:firstName>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <dc:date>2008-11-24</dc:date>
+    <j.1:errorReportsTo rdf:resource="mailto:bortoli@disi.unitn.it"/>
+    <j.1:generatorAgent rdf:resource="http://www.okkam.org/libswb-project/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706181184755302789">
+    <j.0:family_name>Marrara</j.0:family_name>
+    <j.0:firstName>Angelo</j.0:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok56298ab1-04a0-41fa-ba79-4288728ca25b">
+    <j.0:name>Marko Grobelnik</j.0:name>
+    <j.0:surname>Grobelnik</j.0:surname>
+    <j.0:firstName>Marko</j.0:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok6ef3e128-4c4b-4620-a3e0-08c417665a8f">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:surname>Idehen</j.0:surname>
+    <j.0:name>Kingsley Idehen</j.0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok52d78fd7-4bd4-42ab-9f30-e2b0debd627e">
+    <j.0:surname>palpanas</j.0:surname>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706301185791252056"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity#ed5bdc09-ca66-4435-b48e-6df558315fa1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Themis</j.0:firstName>
+    <j.0:family_name>Palpanas</j.0:family_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.know-who.net/foaf.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+    <j.0:primaryTopic rdf:resource="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1"/>
+    <j.1:generatorAgent rdf:resource="http://www.okkam.org/foaf-O-matic/"/>
+    <j.1:errorReportsTo rdf:resource="mailto:bortoli@dit.unitn.it"/>
+    <dc:title>FOAF Description for Heiko Stoermer</dc:title>
+    <dc:description>Friend of a Friend (FOAF) description, containing personal metadata for Heiko Stoermer</dc:description>
+    <dc:date>2008-02-11</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200707031186131660596">
+    <j.0:img>http://www.istc.cnr.it/img/pictures/71ag_cerce1_small.jpg</j.0:img>
+    <j.0:name>Aldo Gangemi</j.0:name>
+    <j.0:surname>Gangemi</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/okc371e723-0b50-497b-96fd-2b19196dff5b">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:depiction rdf:resource="http://fandango.cs.unitn.it/~rcuel/roby-barca.JPG"/>
+    <j.0:surname>cuel</j.0:surname>
+    <j.0:name>Roberta</j.0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.heiko-stoermer.net/foaf.rdf">
+    <dc:date>2008-02-11</dc:date>
+    <dc:description>Friend of a Friend (FOAF) description, containing personal metadata for Heiko Stoermer</dc:description>
+    <dc:title>FOAF Description for Heiko Stoermer</dc:title>
+    <j.1:errorReportsTo rdf:resource="mailto:bortoli@dit.unitn.it"/>
+    <j.1:generatorAgent rdf:resource="http://www.okkam.org/foaf-O-matic/"/>
+    <j.0:primaryTopic rdf:resource="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok9ebf2298-9094-40dd-a783-427af1ddaf98">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Katherina</j.0:firstName>
+    <j.0:family_name>Ioannou</j.0:family_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok923bf64b-3edf-4d0a-baf8-592db9f55689">
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok42fe5511-c177-435a-8cf7-18b6a881d8b7"/>
+    <j.0:name>Sven Buschbeck</j.0:name>
+    <j.0:mbox_sha1sum>3e785b4ba2fc08c5a60405141d5d865c124cabde</j.0:mbox_sha1sum>
+    <j.0:surname>Buschbeck</j.0:surname>
+    <j.0:firstName>Sven</j.0:firstName>
+    <j.0:title>Mr.</j.0:title>
+    <j.0:workInfoHomepage rdf:resource="http://www.hs-augsburg.de/~bucks"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/okac23b2ca-b070-4c05-bdf4-145d58c06da9">
+    <j.0:name>Marco Varone</j.0:name>
+    <j.0:surname>Varone</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok3711231c-ef7e-4509-ae11-c3b52c2c37f2">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/okd7d51f16-4c08-4ca3-9330-ff5e5fc0afa2">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Anita</j.0:firstName>
+    <j.0:family_name>De Waard</j.0:family_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.disi.unitn.it/~bortoli/foaf.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+    <j.0:primaryTopic rdf:resource="http://www.okkam.org/ens/idf2565e6b-1a45-4f2b-b6d7-d3eb315d2527"/>
+    <j.1:generatorAgent rdf:resource="http://www.okkam.org/foaf-O-matic/"/>
+    <j.1:errorReportsTo rdf:resource="mailto:bortoli@disi.unitn.it"/>
+    <dc:title>FOAF Description for Stefano Bortoli</dc:title>
+    <dc:description>Friend of a Friend (FOAF) description, containing personal metadata for Stefano Bortoli</dc:description>
+    <dc:date>2008-10-27</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.hs-augsburg.de/~bucks/foaf.rdf">
+    <dc:date>2008-10-20</dc:date>
+    <dc:description>Friend of a Friend (FOAF) description, containing personal metadata for Sven Buschbeck</dc:description>
+    <dc:title>FOAF Description for Sven Buschbeck</dc:title>
+    <j.1:errorReportsTo rdf:resource="mailto:bortoli@disi.unitn.it"/>
+    <j.1:generatorAgent rdf:resource="http://www.okkam.org/foaf-O-matic/"/>
+    <j.0:primaryTopic rdf:resource="http://www.okkam.org/entity/ok923bf64b-3edf-4d0a-baf8-592db9f55689"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200707031186129278082">
+    <j.0:img>http://edu.dit.unitn.it/img/eduportal/interviews/fausto.jpg</j.0:img>
+    <j.0:family_name>Giunchiglia</j.0:family_name>
+    <j.0:firstName>Fausto</j.0:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200707031186139228597">
+    <j.0:img>http://www.l3s.de/~olmedilla/images/danielOlmedilla.jpg</j.0:img>
+    <j.0:name>Daniel OLMEDILLA</j.0:name>
+    <j.0:surname>OLMEDILLA</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706301185802797287">
+    <j.0:img>http://www.cs.vu.nl/~frankh/figs/FvH-03-2003.jpg</j.0:img>
+    <j.0:family_name>van Harmelen</j.0:family_name>
+    <j.0:firstName>Frank</j.0:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200707031186147498049">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Andrei</j.0:firstName>
+    <j.0:family_name>Tamilin</j.0:family_name>
+    <j.0:img>http://sra.itc.it/people/tamilin/img/andrei_tamilin.jpg</j.0:img>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1">
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706181184755302789"/>
+    <j.0:depiction rdf:resource="http://www.know-who.net/misc/me_170x223.jpg"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok52d78fd7-4bd4-42ab-9f30-e2b0debd627e"/>
+    <j.0:firstName>Heiko</j.0:firstName>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706201184926277668"/>
+    <j.0:name>Heiko Stoermer</j.0:name>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/okdfb86356-b96e-4d87-9595-8af5c5995925"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706301185791328412"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok42fe5511-c177-435a-8cf7-18b6a881d8b7"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok2caa1991-d25c-42c5-bd4b-b2199b2ad52d"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok9ebf2298-9094-40dd-a783-427af1ddaf98"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok0cdb1fcd-fb67-411b-9e1e-e961dccb32c7"/>
+    <j.0:workInfoHomepage rdf:resource="http://www.know-who.net/activities"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok3711231c-ef7e-4509-ae11-c3b52c2c37f2"/>
+    <j.0:surname>Stoermer</j.0:surname>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/okb20caff7-ef65-428d-971d-53587f70601e"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok49615130-b235-4ef5-9eba-c05a641242bf"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok7542fe1d-2b30-4790-8ce6-c89323f40fe4"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200707031186147498049"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706301185791252056"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity#ed5bdc09-ca66-4435-b48e-6df558315fa1">
+    <j.0:firstName>Stefano</j.0:firstName>
+    <j.0:name>Stefano Bertolo</j.0:name>
+    <j.0:surname>Bertolo</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200707031186133511227">
+    <j.0:img>http://www.cs.vu.nl/~heiner/HeinerStuckenschmidt.jpg</j.0:img>
+    <j.0:name>heiner stuckenschmidt</j.0:name>
+    <j.0:surname>stuckenschmidt</j.0:surname>
+    <j.0:firstName>heiner</j.0:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok1900cc72-9c67-4190-b1fd-9e9cb73b3e69">
+    <j.0:name>Willian Stevens</j.0:name>
+    <j.0:surname>Stevens</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706171184685104356">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>harry</j.0:firstName>
+    <j.0:surname>halpin</j.0:surname>
+    <j.0:name>harry halpin</j.0:name>
+    <j.0:img>http://www.ibiblio.org/hhalpin/homepage/images/harrytrain.jpg</j.0:img>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706201184926277668">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Giovanni</j.0:firstName>
+    <j.0:family_name>Tummarello</j.0:family_name>
+    <j.0:img>http://g1o.net/primopiano.JPG</j.0:img>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200707031186150543070">
+    <j.0:name>hugh glaser</j.0:name>
+    <j.0:surname>glaser</j.0:surname>
+    <j.0:firstName>hugh</j.0:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200707031186129416843">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Maurizio</j.0:firstName>
+    <j.0:family_name>Marchese</j.0:family_name>
+    <j.0:img>http://www.science.unitn.it/~marchese/images/main_m.jpg</j.0:img>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok9c9b0e1e-235f-430b-848a-f666c7593f3d">
+    <j.0:name>Francesco Danza</j.0:name>
+    <j.0:surname>Danza</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok49615130-b235-4ef5-9eba-c05a641242bf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Yannis</j.0:firstName>
+    <j.0:family_name>Velegrakis</j.0:family_name>
+    <j.0:img>http://dit.unitn.it/~velgias/images/myphoto.jpg</j.0:img>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706301185791328412">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Luciano</j.0:firstName>
+    <j.0:family_name>Serafini</j.0:family_name>
+    <j.0:img>http://sra.itc.it/people/serafini/fototessera.jpg</j.0:img>
+    <j.0:surname>Serafini</j.0:surname>
+    <j.0:name>Lucian Serafini</j.0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dit.unitn.it/~bortoli/foaf.rdf">
+    <dc:date>2008-10-27</dc:date>
+    <dc:description>Friend of a Friend (FOAF) description, containing personal metadata for Stefano Bortoli</dc:description>
+    <dc:title>FOAF Description for Stefano Bortoli</dc:title>
+    <j.1:errorReportsTo rdf:resource="mailto:bortoli@disi.unitn.it"/>
+    <j.1:generatorAgent rdf:resource="http://www.okkam.org/foaf-O-matic/"/>
+    <j.0:primaryTopic rdf:resource="http://www.okkam.org/ens/idf2565e6b-1a45-4f2b-b6d7-d3eb315d2527"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/okb20caff7-ef65-428d-971d-53587f70601e">
+    <j.0:family_name>Do</j.0:family_name>
+    <j.0:firstName>Hong Hai</j.0:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok7ed2000f-4cff-4718-a60f-da938a3a2541">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:surname>Witbrock</j.0:surname>
+    <j.0:name>Michael Witbrock</j.0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706171184687630112">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Zhisheng</j.0:firstName>
+    <j.0:family_name>Huang</j.0:family_name>
+    <j.0:img>http://wasp.cs.vu.nl/~huang/images/huang02.jpg</j.0:img>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok52d6b941-346e-45bc-81b2-d06005f30893">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>John</j.0:firstName>
+    <j.0:family_name>O'Flaherty</j.0:family_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok689e9305-c104-4adf-b474-a733f0799d9d">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:surname>Young</j.0:surname>
+    <j.0:name>Roger Young</j.0:name>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A0">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Sven</j.0:firstName>
+    <j.0:surname>Buschbeck</j.0:surname>
+    <j.0:mbox_sha1sum>3e785b4ba2fc08c5a60405141d5d865c124cabde</j.0:mbox_sha1sum>
+    <j.0:name>Sven Buschbeck</j.0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok7542fe1d-2b30-4790-8ce6-c89323f40fe4">
+    <j.0:name>Claudia Niederee</j.0:name>
+    <j.0:surname>Niederee</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok42fe5511-c177-435a-8cf7-18b6a881d8b7">
+    <j.0:name>Stefano Bortoli</j.0:name>
+    <j.0:mbox_sha1sum>e8a17dacff77792bce141f27f7f78ea4d44313ae</j.0:mbox_sha1sum>
+    <j.0:surname>Bortoli</j.0:surname>
+    <j.0:firstName>Stefano</j.0:firstName>
+    <j.0:title>Mr.</j.0:title>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:depiction rdf:resource="http://www.zorg.it/img/icoste.jpg"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok8ce607e8-9770-419e-ae9c-b6e0d3cdacaf">
+    <j.0:name>Gregor Hackenbroich</j.0:name>
+    <j.0:surname>Hackenbroich</j.0:surname>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200707031186147288193">
+    <j.0:img>http://www.hsw.fhso.ch/wache/images/Holger-Wache-klein.gif</j.0:img>
+    <j.0:family_name>Wache</j.0:family_name>
+    <j.0:firstName>Holger</j.0:firstName>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/okeb43239b-ee88-41a5-a94b-add409edc11a">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:surname>Mana</j.0:surname>
+    <j.0:name>Antonio Mana</j.0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dit.unitn.it/~themis/foaf.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+    <j.0:primaryTopic rdf:resource="http://www.okkam.org/entity/ok52d78fd7-4bd4-42ab-9f30-e2b0debd627e"/>
+    <j.1:generatorAgent rdf:resource="http://www.okkam.org/foaf-O-matic/"/>
+    <j.1:errorReportsTo rdf:resource="mailto:bortoli@dit.unitn.it"/>
+    <dc:date>2008-02-08</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok200706301185791252056">
+    <j.0:phone rdf:resource="tel:tel:+39 0461 882088"/>
+    <j.0:img>http://www.dit.unitn.it/~bouquet/my-photo-small.gif</j.0:img>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200707031186150543070"/>
+    <j.0:depiction rdf:resource="http://disi.unitn.eu/~bouquet/my-photo-small.jpg"/>
+    <j.0:surname>Bouquet</j.0:surname>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok49615130-b235-4ef5-9eba-c05a641242bf"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/okd7d51f16-4c08-4ca3-9330-ff5e5fc0afa2"/>
+    <j.0:givenname>Paolo</j.0:givenname>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706201184926277668"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok8ce607e8-9770-419e-ae9c-b6e0d3cdacaf"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok56298ab1-04a0-41fa-ba79-4288728ca25b"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok9c9b0e1e-235f-430b-848a-f666c7593f3d"/>
+    <j.0:workInfoHomepage rdf:resource="http://www.okkam.org/"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/okc371e723-0b50-497b-96fd-2b19196dff5b"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok37abaf04-f971-4184-9a8b-6b37bf059944"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706301185791328412"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706171184685104356"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok8d57742d-6c6e-435f-9528-a62cb8178b4c"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706161184588383497"/>
+    <j.0:mbox_sha1sum>f7b3848e470087b9a525b71d166b99620d2e5b49</j.0:mbox_sha1sum>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200707031186139228597"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/okac23b2ca-b070-4c05-bdf4-145d58c06da9"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/okeb43239b-ee88-41a5-a94b-add409edc11a"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/okdfb86356-b96e-4d87-9595-8af5c5995925"/>
+    <j.0:family_name>Bouquet</j.0:family_name>
+    <j.0:birthday>28-07-1966</j.0:birthday>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Paolo</j.0:firstName>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706301185802797287"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok52d78fd7-4bd4-42ab-9f30-e2b0debd627e"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok52d6b941-346e-45bc-81b2-d06005f30893"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok0cdb1fcd-fb67-411b-9e1e-e961dccb32c7"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/okb72d708e-1c11-40eb-ad97-e250785756ab"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200707031186129278082"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200707031186129416843"/>
+    <j.0:gender>Male</j.0:gender>
+    <rdfs:seeAlso>http://dit.unitn.it/people/uinfo?id=2</rdfs:seeAlso>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok689e9305-c104-4adf-b474-a733f0799d9d"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok1900cc72-9c67-4190-b1fd-9e9cb73b3e69"/>
+    <j.0:birthday>28/07/1966</j.0:birthday>
+    <j.0:workplaceHomepage rdf:resource="http://disi.unitn.eu/"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok8778fbae-4c42-41d6-a6ee-a8f960b66998"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200707031186131660596"/>
+    <j.0:name>Paolo Bouquet</j.0:name>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok6ef3e128-4c4b-4620-a3e0-08c417665a8f"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity#ed5bdc09-ca66-4435-b48e-6df558315fa1"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok7ed2000f-4cff-4718-a60f-da938a3a2541"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200707031186133511227"/>
+    <j.0:title>Professor</j.0:title>
+    <rdfs:seeAlso>http://portale.unitn.it/ateneo/persone/paolo.bouquet</rdfs:seeAlso>
+    <j.0:homepage rdf:resource="http://disi.unitn.eu/~bouquet/"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok8d57742d-6c6e-435f-9528-a62cb8178b4c">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Barbara</j.0:firstName>
+    <j.0:family_name>Bazzanella</j.0:family_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/ens/idf2565e6b-1a45-4f2b-b6d7-d3eb315d2527">
+    <j.0:homepage rdf:resource="http://dit.unitn.it/~bortoli/index.html"/>
+    <j.0:mbox_sha1sum>0262e540cbad6978163f6df8adfaac2306538d31</j.0:mbox_sha1sum>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706171184687630112"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200706301185791252056"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok200707031186147288193"/>
+    <j.0:workplaceHomepage rdf:resource="/"/>
+    <j.0:knows rdf:nodeID="A0"/>
+    <j.0:knows rdf:nodeID="A1"/>
+    <j.0:schoolHomepage rdf:resource="http://www.science.unitn.it/"/>
+    <j.0:surname>Bortoli</j.0:surname>
+    <j.0:name>Stefano Bortoli</j.0:name>
+    <j.0:firstName>Stefano</j.0:firstName>
+    <j.0:depiction rdf:resource="http://dit.unitn.it/~bortoli/images/stefano_bortoli.jpg"/>
+    <j.0:knows rdf:resource="http://www.okkam.org/entity/ok5f23a5ce-a683-4c4d-ae73-b78cdc17aec1"/>
+    <j.0:mbox_sha1sum>5e13cbbeb05db469b640b11cd251753da618b81f</j.0:mbox_sha1sum>
+    <j.0:mbox_sha1sum>842d1c7d067ba4e02619551283b0f6a1d10f21d5</j.0:mbox_sha1sum>
+    <j.0:nick>boe</j.0:nick>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok37abaf04-f971-4184-9a8b-6b37bf059944">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Ruben</j.0:firstName>
+    <j.0:family_name>Riestra</j.0:family_name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok0cdb1fcd-fb67-411b-9e1e-e961dccb32c7">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:firstName>Periklis</j.0:firstName>
+    <j.0:family_name>Andritsos</j.0:family_name>
+    <j.0:img>http://www.disi.unitn.it/~periklis/imgs/peri22.jpg</j.0:img>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dit.unitn.it/~bouquet/foaf.rdf">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+    <j.0:primaryTopic rdf:resource="http://www.okkam.org/entity/ok200706301185791252056"/>
+    <j.1:generatorAgent rdf:resource="http://www.okkam.org/foaf-O-matic/"/>
+    <j.1:errorReportsTo rdf:resource="mailto:bortoli@disi.unitn.it"/>
+    <dc:title>FOAF Description for Paolo Bouquet</dc:title>
+    <dc:description>Friend of a Friend (FOAF) description, containing personal metadata for Paolo Bouquet</dc:description>
+    <dc:date>2008-09-23</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://disi.unitn.it/~bouquet/foaf.rdf">
+    <dc:date>2008-09-23</dc:date>
+    <dc:description>Friend of a Friend (FOAF) description, containing personal metadata for Paolo Bouquet</dc:description>
+    <dc:title>FOAF Description for Paolo Bouquet</dc:title>
+    <j.1:errorReportsTo rdf:resource="mailto:bortoli@disi.unitn.it"/>
+    <j.1:generatorAgent rdf:resource="http://www.okkam.org/foaf-O-matic/"/>
+    <j.0:primaryTopic rdf:resource="http://www.okkam.org/entity/ok200706301185791252056"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/PersonalProfileDocument"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.okkam.org/entity/ok8778fbae-4c42-41d6-a6ee-a8f960b66998">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <j.0:surname>Fauri</j.0:surname>
+    <j.0:name>Elisabetta Fauri</j.0:name>
+  </rdf:Description>
+</rdf:RDF>

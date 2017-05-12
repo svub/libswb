@@ -1,0 +1,2 @@
+index,merging steps,merged documents,avg doc size,total docs size,avg num of nodes per doc,total num of nodes in docs,num of nodes in merged doc,avg num of statements per doc,total num of statements in docs,statements in merged doc,total runtime,time for downloading
+0,10,11,5635.636363636364,61992,0,0,0,28.0,310.0,172.0,25657.0,11765.0
